@@ -1,93 +1,38 @@
-<h1 align="center">✨ Assalomu alaykum, I'm **Mahmud Axmedov** 👨‍💻</h1>
-
+<!-- HEADER SECTION WITH TYPING SVG -->
+<h1 align="center">👋 Assalomu alaykum! I'm Mahmud</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=1F51FF&center=true&vCenter=true&width=600&lines=Flutter+&+Dart+Developer;Building+beautiful+cross+platform+apps;Open-source+passionate;Driven+by+UI+&+UX" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/222338886-7f9b1c55-df86-4e56-a091-3bff06431a7b.gif" width="90%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Flutter+%F0%9F%90%9B+Dart+Developer;Cross-platform+Mobile+App+Engineer;Lover+of+Clean+Architecture;Firebase+%F0%9F%93%A1+Integrations+%26+Realtime+Apps;Open+Source+Contributor+%F0%9F%92%9A" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🎯 About Me
 
-- 🔭 Currently working as **Flutter & Dart Developer**
-- 🌱 Exploring **Clean Architecture**, **Bloc**, **Riverpod**, **Animations**
-- 🎯 Passionate about crafting **pixel-perfect mobile UI/UX**
-- 🌍 Based in Uzbekistan 🇺🇿
-- 📫 Let’s connect:
-  - ✉️ [axmedovmaxmud839@gmail.com](mailto:axmedovmaxmud839@gmail.com)
-  - 🔗 [LinkedIn: maxmud‑axmedov](https://www.linkedin.com/in/maxmud-axmedov/)
+🌍 From: Uzbekistan  
+💼 Role: Flutter/Dart Mobile App Developer  
+📱 Focus: Cross-platform performance, beautiful UI/UX  
+🧠 Currently learning: Clean architecture, platform channels, Riverpod  
+💬 Ask me about: Flutter, Dart, Firebase, Bloc, Git  
+🎨 Passion: Creating pixel-perfect apps from scratch  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" height="auto"/>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,androidstudio,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,linux" />
 </p>
 
 ---
 
-## 🚀 What I Build
+## 🧰 Tools I Use Daily
 
-- Cross‑platform Flutter apps with fluid animations and responsive layouts  
-- State-managed apps using **Bloc / Riverpod / Provider**  
-- Backend integrations with **REST APIs** and **Firebase**  
-- Clean and documented code for scalable projects
-
----
-
-## 🏆 Achievements & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahmud5588&show_icons=true&theme=radical&hide_border=true" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmud5588&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahmud5588&theme=radical&no-frame=true&margin-w=15&row=1&column=5" />
-</p>
-
----
-
-## 📊 Badges & Insights
-
-<p align="center">
-  <a href="https://github.com/Mahmud5588"><img src="https://komarev.com/ghpvc/?username=Mahmud5588&color=0e75b6&style=flat" alt="Profile views" /></a>
-  <img src="https://img.shields.io/github/followers/Mahmud5588?style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/repos/Mahmud5588?style=flat-square" alt="Repos" />
-  <img src="https://img.shields.io/github/stars/Mahmud5588?style=flat-square" alt="Stars" />
-  <img src="https://img.shields.io/github/commit-activity/y/Mahmud5588?style=flat-square" alt="Commits" />
-</p>
-
----
-
-## 🎨 Featured Project Showcase
-
-<p align="center">
-  <a href="https://github.com/Mahmud5588/your-project-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmud5588&repo=your-project-repo&theme=radical" alt="Project Showcase" />
-  </a>
-</p>
-
-*(🧩 Havolani mos loyiha nomi bilan yangilang)*
-
----
-
-## 💬 Quote I Live By
-
-> “First, solve the problem. Then, write the code.” – John Johnson
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320px" />
-</p>
-
----
-
-<p align="center">
-✨ Always building, always learning. Thank you for stopping by! ✨
-</p>
+```txt
+💻 Flutter             🔧 Dart
+🔥 Firebase            🌐 REST APIs
+📦 Bloc / Riverpod     📊 Git / GitHub
+🎨 Adobe XD / Figma    💬 ChatGPT 😉
