@@ -1,42 +1,52 @@
-<!-- HEADER -->
-<h1 align="center">👋 Assalomu alaykum! I'm Mahmud</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Flutter+%F0%9F%90%9B+Dart+Developer;Cross-platform+App+Engineer+from+Uzbekistan;Loves+Firebase+and+Clean+Architecture;Bringing+Designs+to+Life+with+Code;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
-</p>
+---
+
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20My%20Profile!&fontSize=30&fontColor=ffffff" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahmud5588&theme=gruvbox&margin-w=10&no-bg=true&no-frame=true&row=2&column=4" />
 </p>
 
 ---
 
-## 🎯 About Me
-
-🌍 From: Uzbekistan  
-💼 Role: **Flutter/Dart Mobile App Developer**  
-📱 Focus: Performance, architecture, UI/UX perfection  
-🧠 Learning: Riverpod, Platform channels, Clean Architecture  
-💬 Ask me about: Flutter, Dart, Firebase, Bloc, Git  
-✨ Passion: Turning complex UI into beautiful code
+## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mahmud5588&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 📌 Followers & Views
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio,linux" />
+  <img src="https://komarev.com/ghpvc/?username=Mahmud5588&label=Profile%20Views&color=blueviolet&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Mahmud5588?style=social" />
+  <img src="https://img.shields.io/github/stars/Mahmud5588?style=social" />
 </p>
 
 ---
 
-## 🧰 Tools I Use
+## 📍 Languages Used (Pie Chart)
 
-```txt
-💻 Flutter             🔧 Dart
-🔥 Firebase            🌐 REST APIs
-📦 Bloc / Riverpod     📊 Git / GitHub
-🎨 Adobe XD / Figma    💬 ChatGPT / Copilot
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmud5588&layout=pie&theme=monokai&hide_border=true" height="200" />
+</p>
+
+---
+
+## 🌟 Special Thanks
+
+> “Thank you for visiting my profile. Let’s build the future with Flutter!” 🚀  
+> **💬 Reach out for collaboration or just say hi.**
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="300px" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:66f,100:0099ff&height=140&section=footer&text=Happy+Coding!&fontColor=ffffff&fontSize=22&animation=twinkling" />
+</p>
