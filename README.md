@@ -60,8 +60,8 @@
 ## 📫 Contact Me
 
 - 🌐 Portfolio: _Coming soon..._
-- 📧 Email: _your-email@example.com_ *(edit qiling)*
-- 💼 LinkedIn: _Add if available_
+- 📧 Email: axmedovmaxmud839@gmail.com*
+- 💼 LinkedIn: _[Add if availabl](https://www.linkedin.com/in/maxmud-axmedov/)_
 
 ---
 
